@@ -1,0 +1,1 @@
+## JavaScript (JS) is a programming language used to make web pages interactive, dynamic, and responsive.
